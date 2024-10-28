@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interface gamoyeneba", "interface gamoyeneba\interface gamoyeneba.csproj", "{430D9432-AAD3-419A-966A-0CBCBDE754D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{430D9432-AAD3-419A-966A-0CBCBDE754D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{430D9432-AAD3-419A-966A-0CBCBDE754D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{430D9432-AAD3-419A-966A-0CBCBDE754D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{430D9432-AAD3-419A-966A-0CBCBDE754D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F729A75F-9209-4CB7-AA9C-BD8090485D19}
+	EndGlobalSection
+EndGlobal
